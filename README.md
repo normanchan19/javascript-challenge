@@ -11,6 +11,6 @@
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
 Changes:
-1/18
+7/18
 Added relevant files
 Finished challenge
